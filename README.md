@@ -3,7 +3,7 @@
 - 🌱 I’m currently Purusing Bachelor's in Computer Science
 - 💻 **Tech Stack:**
 -   *Programming Languages:*   Java, Python, R,SQL,PHP.
--   *Tools and IDEs:*   Turbo C++,  R-Studio,   VS Code  , Jupiter-Notebook.
+-   *Tools and IDEs:*   VS Code , R-Studio, Jupiter-Notebook.
 -  *Special-Interests:*  machine learning models, data visualization, and generative AI.
 - “💞️ I’m looking to collaborate on open-source data science projects, especially those involving machine learning and data visualization.
 - 📫  reach me ...
