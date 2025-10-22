@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science & AI.
 - 🌱 I’m currently Purusing Bachelor's in Computer Science
 - 💻 **Tech Stack:**
--   *Programming Languages:*   Java, Python, SQL,PHP.
+-   *Programming Languages:*   Flask, Python, SQL,PHP.
 -   *Tools and IDEs:*   VS Code , Oracel, Jupiter-Notebook.
 -   *frame works:* Power BI ,Excel
 -  *Special-Interests:*  machine learning models, data visualization, and generative AI.
