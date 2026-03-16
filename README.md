@@ -1,44 +1,58 @@
-👋 Hi, I’m @Priyanshu-Yadav19
+<!-- ─────────────── 🏁 START HEADER ─────────────── -->
 
-👀 I’m interested in AI Engineering, Data Science, and Intelligent Automation.
+<h1 align="center">👋 Hi, I’m @Priyanshu-Yadav19</h1>
+<p align="center">
+   Artificial Intelligence Intern |  AI & ML Enthusiast
+</p>
 
-🌱 I’m currently pursuing a Bachelor’s degree in Computer Science, while actively building real-world AI projects and workflows.
+<p align="center">
+  🎓 Bachelor`s in Computer Science | Exploring Generative AI & Deep Learning
+</p>
 
-💻 Tech Stack & Skills:
 
-Programming & Scripting: Python, SQL, Flask, PHP
+##  About Me
 
-AI / ML: Machine Learning basics, LLMs, Prompt Engineering, RAG fundamentals
+I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Generative AI**. I enjoy building intelligent solutions, dissecting complex problems, and turning data into meaningful insights.
 
-Automation & Workflows: n8n, API integrations, webhook-based systems
+---
 
-Data & Analytics: Power BI, Excel, data visualization
+## 🚀 Currently
 
-Tools & Platforms: VS Code, Jupyter Notebook, Google Colab, Oracle DB
+- Working as **AI Intern**
+- Exploring **Generative AI models**
+- Building hands-on **AI/ML projects**
+- Learning **model deployment & production-grade workflows**
 
-AI APIs: Gemini (Google), Speech-to-Text APIs
+---
 
-🎯 What I Build:
+## 🛠️ Tech Stack & Interests
 
-AI-powered content repurposing systems (video → LinkedIn posts)
+| 🧠 Languages | 🧰 Tools & IDEs | 💻 Frameworks  | 💾 Databases | 🕸️ Web Scraping      | 💡 Interests          |
+|--------------|------------------|----------------|---------------|----------------------|------------------------|
+| Python       | PyCharm          | Flask          | SQL Server    | BeautifulSoup        | Data Visualization     |
+| php          | VS Code          | FastAPI        | MongoDB       | Selenium             | Machine Learning       |
+| C++          | Jupyter Notebook |                | VectorDB      |                      | Deep Learning          |
+|              |                  |                |               |                      | NLP & Gen-AI           ||
 
-Automated workflows using n8n
+---
 
-LLM-based assistants and copilots
+## 📫 Connect with Me
 
-Data-driven dashboards and insights
+<div align="center">
+  📩 <strong>Email:</strong> <a href="mailto:priyanshu19082005@gmail.com">priyanshu19082005@gmail.com</a>  
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/priyanshu-yadav-456117340">linkedin.com/in/priyanshu-yadav-456117340</a>
+</div>
 
-💞️ I’m looking to collaborate on open-source AI, data science, and automation projects, especially those involving LLMs, workflows, and analytics.
+---
+## 😄 Fun Fact
 
-📫 Reach me at:
+I love attending **tech meetups** and enjoy **breaking down complex AI concepts into simple explanations** so anyone can understand them!
 
-📧 Email: priyanshu19082005@gmail.com
 
-📍 Based in Valsad, South Gujarat, India
+## 📊 GitHub Stats
 
-🌟 Fun fact: I enjoy tech meetups, experimenting with new IDEs, and turning manual processes into automated AI systems 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Yadav19&theme=radical" alt="Streak Stats" />
+</p>
 
-<!---
-Priyanshu-Yadav19/Priyanshu-Yadav19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ *Thanks for visiting my profile — let’s build something cool together!* 🚀
